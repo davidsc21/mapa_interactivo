@@ -1,11 +1,38 @@
-*{
-    background-color: darksalmon;
-}
 
 .container{
     background-color: white;
     margin-top: 5%;
     margin-bottom: 20px;
     text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
+h1{
+    text-align: center;
+    background-color: transparent;
+}
+
+.tittle{
+    background-color: transparent;
+}
+
+text{
+    background-color: transparent;
+}
+
+body{
+    background-color: darksalmon;
+}
+
+h2{
+    text-align: left;
+}
+
+.content{
+    margin: 2%;
+}
+
+ul{
+    text-align: left;
+}
