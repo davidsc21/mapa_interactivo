@@ -8,9 +8,20 @@
     margin-right: 5%;
 }
 
+a{
+    text-decoration: none;
+}
+
 h1{
     text-align: center;
     background-color: transparent;
+}
+
+.descripcion{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    display: block;
 }
 
 .tittle{
@@ -35,4 +46,13 @@ h2{
 
 ul{
     text-align: left;
+}
+
+button{
+    background-color: greenyellow;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: forestgreen;
 }
